@@ -1,6 +1,5 @@
 *scenario-completeness-gsn* provides a goal structured notation to argue the completeness of scenario concepts.
 
- [!IMPORTANT]  
 > This repository is open-sourced and maintained by the [**Institute for Automotive Engineering (ika) at RWTH Aachen University**](https://www.ika.rwth-aachen.de/).  
 > **Scenario based testing, safety assurance and the completeness of scenario concepts** are some of many research topics within our [*Vehicle Intelligence & Automated Driving*](https://www.ika.rwth-aachen.de/en/competences/fields-of-research/vehicle-intelligence-automated-driving.html) domain.  
 > If you would like to learn more about how we can support your scenario-based assurance or automated driving efforts, feel free to reach out to us!  
